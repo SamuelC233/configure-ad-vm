@@ -4,7 +4,7 @@
 </p>
 
 <h1>Configuring Active Directory Infrastructure in Azure (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This tutorial outlines the process of setting up a client virtual machine and a domain controller virtual machine, which will be used in the deployment of Active Directory within Azure Virtual Machines.<br />
 
 
 
