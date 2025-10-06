@@ -4,7 +4,7 @@
 </p>
 
 <h1>Configuring Active Directory Infrastructure in Azure (Azure)</h1>
-This tutorial outlines the process of setting up a client virtual machine and a domain controller virtual machine, which will be used in the deployment of Active Directory within Azure Virtual Machines.<br />
+This tutorial outlines the process of setting up a domain controller and a client virtual machine in Azure, which will be used to deploy and test Active Directory Domain Services (AD DS) within a virtualized environment.<br />
 
 
 
@@ -13,7 +13,7 @@ This tutorial outlines the process of setting up a client virtual machine and a 
 - Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Windows PowerShell
-- Windows Firewall
+- Windows Firewall Defender
 
 <h2>Operating Systems Used </h2>
 
@@ -22,10 +22,10 @@ This tutorial outlines the process of setting up a client virtual machine and a 
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Setup Domain Controller in Azure
-- Setup Client-1 in Azure
-- Test Connectivity Between Client-1 and DC-1
-- Observe Network Configuration Details
+- Deploy Domain Controller (DC-1) in Azure
+- Deploy Client Virtual Machine (Client-1) in Azure
+- Configure and Test Network Connectivity Between Client-1 and DC-1
+- Verify Network and DNS Settings
 
 <h2>Deployment and Configuration Steps</h2>
 
