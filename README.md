@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="" alt="Microsoft Active Directory Logo"/>
+<img src="https://github.com/SamuelC233/configure-ad-vm/blob/main/Azure%20cloud%20logo.png?raw=true" alt="Microsoft Azure Logo"/>
 </p>
 
 <h1>Setting Up a Domain Controller and Client Virtual Machine in Azure</h1>
