@@ -1,9 +1,9 @@
 
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img src="" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Configuring Active Directory Infrastructure in Azure (Azure)</h1>
+<h1>Setting Up a Domain Controller and Client Virtual Machine in Azure</h1>
 This tutorial outlines the process of setting up a domain controller and a client virtual machine in Azure, which will be used to deploy and test Active Directory Domain Services (AD DS) within a virtualized environment.<br />
 
 
